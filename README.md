@@ -125,7 +125,7 @@ travel-app/
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
-│                        DATA MODEL                            │
+│                        DATA MODEL                           │
 │  ┌───────────────────────────────────────────────────────┐  │
 │  │                   TravelVO                            │  │
 │  │  - int no                                             │  │
@@ -491,9 +491,9 @@ TravelApp (Entry Point)
 
 - **Backend Framework**: Spring Boot
 - **Web Layer**: Spring Web MVC (@RestController)
-- **Database**: MySQL 8.x
+- **Database**: MySQL 8.0
 - **JDBC**: Java Database Connectivity
-- **Build Tool**: Maven/Gradle (추정)
+- **Build Tool**: Maven/Gradle
 - **Java Version**: Java 8+
 
 ---
